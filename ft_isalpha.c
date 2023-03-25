@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_isalpha.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: cschiavo <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: cschiavo <cschiavo@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/03 15:27:58 by cschiavo          #+#    #+#             */
-/*   Updated: 2022/10/07 14:55:47 by cschiavo         ###   ########.fr       */
+/*   Updated: 2023/03/25 18:22:22 by cschiavo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+
 
 int	ft_isalpha(int arg)
 {

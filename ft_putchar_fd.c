@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putchar_fd.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: cschiavo <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: cschiavo <cschiavo@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/08 16:58:52 by cschiavo          #+#    #+#             */
-/*   Updated: 2022/10/08 17:03:39 by cschiavo         ###   ########.fr       */
+/*   Updated: 2023/03/25 18:24:38 by cschiavo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+
 
 void	ft_putchar_fd(char c, int fd)
 {

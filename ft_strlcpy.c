@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlcpy.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: cschiavo <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: cschiavo <cschiavo@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/04 17:20:35 by cschiavo          #+#    #+#             */
-/*   Updated: 2022/10/10 10:07:02 by cschiavo         ###   ########.fr       */
+/*   Updated: 2023/03/25 18:24:28 by cschiavo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+
 
 size_t	ft_strlcpy(char *dest, const char *src, size_t size)
 {

@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strncmp.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: cschiavo <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: cschiavo <cschiavo@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/05 14:08:05 by cschiavo          #+#    #+#             */
-/*   Updated: 2022/10/07 16:37:35 by cschiavo         ###   ########.fr       */
+/*   Updated: 2023/03/25 18:24:25 by cschiavo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+
 
 int	ft_strncmp(char *s1, char *s2, size_t n)
 {
