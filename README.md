@@ -12,7 +12,7 @@ ft_lstnew, ft_lstnew, ft_lstsize, ft_lstsize, ft_lstadd_back, ft_lstdelone, ft_l
 ## How to use
 | command | info |
 | ------- | ---- |
-| `make` | compile mandatory functions. |
-| `make bonus` | compile with bonus functions. |
+| `make` | compile mandatory functions |
+| `make bonus` | compile with bonus functions |
 | `make flcean`| clean your file |
 A C library containing a lot of general purpose functions.
